@@ -1,0 +1,23 @@
+C:\Users\windows 10\source\repos\THA_Week 12_TAKEMASA_S\THA_Week 12_TAKEMASA_S\obj\Debug\THA_Week 12_TAKEMASA_S.csproj.AssemblyReference.cache
+C:\Users\windows 10\source\repos\THA_Week 12_TAKEMASA_S\THA_Week 12_TAKEMASA_S\obj\Debug\THA_Week 12_TAKEMASA_S.csproj.SuggestedBindingRedirects.cache
+C:\Users\windows 10\source\repos\THA_Week 12_TAKEMASA_S\THA_Week 12_TAKEMASA_S\obj\Debug\THA_Week 12_TAKEMASA_S.exe.config
+C:\Users\windows 10\source\repos\THA_Week 12_TAKEMASA_S\THA_Week 12_TAKEMASA_S\obj\Debug\THA_Week_12_TAKEMASA_S.Form1.resources
+C:\Users\windows 10\source\repos\THA_Week 12_TAKEMASA_S\THA_Week 12_TAKEMASA_S\obj\Debug\THA_Week_12_TAKEMASA_S.Properties.Resources.resources
+C:\Users\windows 10\source\repos\THA_Week 12_TAKEMASA_S\THA_Week 12_TAKEMASA_S\obj\Debug\THA_Week 12_TAKEMASA_S.csproj.GenerateResource.cache
+C:\Users\windows 10\source\repos\THA_Week 12_TAKEMASA_S\THA_Week 12_TAKEMASA_S\obj\Debug\THA_Week 12_TAKEMASA_S.csproj.CoreCompileInputs.cache
+C:\Users\windows 10\source\repos\THA_Week 12_TAKEMASA_S\THA_Week 12_TAKEMASA_S\bin\Debug\THA_Week 12_TAKEMASA_S.exe.config
+C:\Users\windows 10\source\repos\THA_Week 12_TAKEMASA_S\THA_Week 12_TAKEMASA_S\bin\Debug\THA_Week 12_TAKEMASA_S.exe
+C:\Users\windows 10\source\repos\THA_Week 12_TAKEMASA_S\THA_Week 12_TAKEMASA_S\bin\Debug\THA_Week 12_TAKEMASA_S.pdb
+C:\Users\windows 10\source\repos\THA_Week 12_TAKEMASA_S\THA_Week 12_TAKEMASA_S\bin\Debug\MySql.Data.dll
+C:\Users\windows 10\source\repos\THA_Week 12_TAKEMASA_S\THA_Week 12_TAKEMASA_S\bin\Debug\Google.Protobuf.dll
+C:\Users\windows 10\source\repos\THA_Week 12_TAKEMASA_S\THA_Week 12_TAKEMASA_S\bin\Debug\ZstdNet.dll
+C:\Users\windows 10\source\repos\THA_Week 12_TAKEMASA_S\THA_Week 12_TAKEMASA_S\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\windows 10\source\repos\THA_Week 12_TAKEMASA_S\THA_Week 12_TAKEMASA_S\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\windows 10\source\repos\THA_Week 12_TAKEMASA_S\THA_Week 12_TAKEMASA_S\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\windows 10\source\repos\THA_Week 12_TAKEMASA_S\THA_Week 12_TAKEMASA_S\bin\Debug\System.Buffers.dll
+C:\Users\windows 10\source\repos\THA_Week 12_TAKEMASA_S\THA_Week 12_TAKEMASA_S\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\windows 10\source\repos\THA_Week 12_TAKEMASA_S\THA_Week 12_TAKEMASA_S\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\windows 10\source\repos\THA_Week 12_TAKEMASA_S\THA_Week 12_TAKEMASA_S\bin\Debug\MySql.Data.xml
+C:\Users\windows 10\source\repos\THA_Week 12_TAKEMASA_S\THA_Week 12_TAKEMASA_S\obj\Debug\THA_Week 12_TAKEMASA_S.csproj.CopyComplete
+C:\Users\windows 10\source\repos\THA_Week 12_TAKEMASA_S\THA_Week 12_TAKEMASA_S\obj\Debug\THA_Week 12_TAKEMASA_S.exe
+C:\Users\windows 10\source\repos\THA_Week 12_TAKEMASA_S\THA_Week 12_TAKEMASA_S\obj\Debug\THA_Week 12_TAKEMASA_S.pdb
